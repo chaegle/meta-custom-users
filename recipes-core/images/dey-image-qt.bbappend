@@ -4,9 +4,10 @@
 
 inherit extrausers
 
+
 # Adds groups 'asgardians' and 'avengers'
 # Create user 'loki' 
-# Use mkpasswd to generate a hash for odin's password (raganarok)
+# Use mkpasswd to generate a hash for odin's password (ragnarok)
 # MD5 Hash password ('ragnarok') for user thor 
 # Add odin, thor and loki to asgardians group
 # Delete user loki
